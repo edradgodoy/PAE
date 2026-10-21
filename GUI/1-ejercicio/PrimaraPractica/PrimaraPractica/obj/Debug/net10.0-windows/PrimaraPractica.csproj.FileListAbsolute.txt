@@ -1,0 +1,17 @@
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\bin\Debug\net10.0-windows\PrimaraPractica.exe
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\bin\Debug\net10.0-windows\PrimaraPractica.deps.json
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\bin\Debug\net10.0-windows\PrimaraPractica.runtimeconfig.json
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\bin\Debug\net10.0-windows\PrimaraPractica.dll
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\bin\Debug\net10.0-windows\PrimaraPractica.pdb
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.Form1.resources
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.csproj.GenerateResource.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.AssemblyInfoInputs.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.AssemblyInfo.cs
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.sourcelink.json
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.dll
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\refint\PrimaraPractica.dll
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.pdb
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\PrimaraPractica.genruntimeconfig.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\PrimaraPractica\PrimaraPractica\obj\Debug\net10.0-windows\ref\PrimaraPractica.dll

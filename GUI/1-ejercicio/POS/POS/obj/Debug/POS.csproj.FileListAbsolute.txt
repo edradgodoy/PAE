@@ -1,0 +1,10 @@
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\bin\Debug\POS.exe.config
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\bin\Debug\POS.exe
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\bin\Debug\POS.pdb
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.Form1.resources
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.exe
+C:\wamp64\www\Clases\PAE\GUI\1-ejercicio\POS\POS\obj\Debug\POS.pdb
